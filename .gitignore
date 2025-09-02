@@ -1,0 +1,90 @@
+# Unity 관련 임시 파일들
+*.tmp
+*.temp
+*.log
+*.cache
+*.pid
+*.seed
+*.pid.lock
+
+# Unity 빌드 관련
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity 메타데이터
+*.meta
+*.unity.meta
+*.asset.meta
+*.prefab.meta
+
+# Unity 프로젝트 설정
+ProjectSettings/
+UserSettings/
+
+# Unity 패키지
+[Pp]ackages/
+manifest.json
+manifest.json.meta
+packages-lock.json
+packages-lock.json.meta
+
+# Unity 콜라보레이트
+Collab/
+
+# Unity 버전 관리
+.vs/
+.vscode/
+.idea/
+
+# OS 관련
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Node.js 관련 (만약 있다면)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn-integrity
+
+# 환경 변수
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE 관련
+*.swp
+*.swo
+*~
+
+# 백업 파일
+*.bak
+*.backup
+*.old
+
+# 압축 파일
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# 로그 파일
+*.log
+logs/
+
+# 임시 파일
+temp/
+tmp/

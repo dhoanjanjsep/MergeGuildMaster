@@ -1,0 +1,26 @@
+{
+  "name": "unity-webgl-project",
+  "version": "1.0.0",
+  "description": "Unity WebGL project deployed on Vercel",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build step required for static Unity WebGL project'",
+    "start": "echo 'Static files are served directly by Vercel'",
+    "dev": "echo 'Use a local server like http-server or live-server to test locally'"
+  },
+  "keywords": [
+    "unity",
+    "webgl",
+    "game",
+    "vercel"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "your-repository-url"
+  }
+}
